@@ -16,20 +16,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Q1-SOAP/Client/client.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="43" lean-forward="true" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+            <state relative-caret-position="180">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Q1-SOAP/Server/abc.wsdl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="68" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="68" />
             </state>
           </provider>
         </entry>
@@ -48,6 +39,9 @@
       <find>parameter</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -61,6 +55,7 @@
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -73,6 +68,17 @@
             <path>
               <item name="Asst2-Q1-SOAP-Client" type="b2602c69:ProjectViewProjectNode" />
               <item name="Asst2-Q1-SOAP-Client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Asst2-Q1-SOAP-Client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Asst2-Q1-SOAP-Client" type="462c0819:PsiDirectoryNode" />
+              <item name="Q1-SOAP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Asst2-Q1-SOAP-Client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Asst2-Q1-SOAP-Client" type="462c0819:PsiDirectoryNode" />
+              <item name="Q1-SOAP" type="462c0819:PsiDirectoryNode" />
+              <item name="Client" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -145,12 +151,12 @@
       <workItem from="1549430234396" duration="3233000" />
       <workItem from="1549447484856" duration="411000" />
       <workItem from="1549481219797" duration="379000" />
-      <workItem from="1549610248909" duration="255000" />
+      <workItem from="1549610248909" duration="324000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4278000" />
+    <option name="totallyTimeSpent" value="4347000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -185,8 +191,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Q1-SOAP/Client/client.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="43" lean-forward="true" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
